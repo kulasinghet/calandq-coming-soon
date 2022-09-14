@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/calandq-coming-soon/static/css/main.0cc96d35.css",
+    "main.js": "/calandq-coming-soon/static/js/main.695f7cd6.js",
+    "static/js/787.c30e9727.chunk.js": "/calandq-coming-soon/static/js/787.c30e9727.chunk.js",
+    "static/media/background.webp": "/calandq-coming-soon/static/media/background.b3249ac441f8a4233449.webp",
+    "static/media/CalandQLogo.png": "/calandq-coming-soon/static/media/CalandQLogo.b95b1e8e96e2b05b4086.png",
+    "static/media/background.png": "/calandq-coming-soon/static/media/background.470ca34f68ad060a3350.png",
+    "index.html": "/calandq-coming-soon/index.html",
+    "main.0cc96d35.css.map": "/calandq-coming-soon/static/css/main.0cc96d35.css.map",
+    "main.695f7cd6.js.map": "/calandq-coming-soon/static/js/main.695f7cd6.js.map",
+    "787.c30e9727.chunk.js.map": "/calandq-coming-soon/static/js/787.c30e9727.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cc96d35.css",
+    "static/js/main.695f7cd6.js"
+  ]
+}
